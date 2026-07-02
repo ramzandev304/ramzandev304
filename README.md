@@ -1,159 +1,184 @@
 <div align="center">
 
-# 👋 Hi, I'm Ramzan Ashraf
+# 🚀 Ramzan Ashraf
 
-### 🚀 Senior Full Stack & AI Engineer
+### Senior Full Stack Engineer • AI Engineer • Software Consultant
 
-**Python • AI/LLMs • MERN • MEAN • LAMP • WordPress**
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=800&lines=AI+Engineer;Full+Stack+Developer;Python+Expert;LLM+%26+RAG+Specialist;SaaS+Architect;Automation+Engineer" />
 
-Building scalable software, AI-powered applications, and enterprise web solutions with **6+ years of professional experience.**
+<br>
 
-<p>
-  <a href="https://ramzanashraf.site">
-    <img src="https://img.shields.io/badge/🌐 Portfolio-Visit-success?style=for-the-badge">
-  </a>
-  <a href="https://www.linkedin.com/in/ramzandev304/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
-  </a>
-  <a href="tel:+923390093974">
-    <img src="https://img.shields.io/badge/📱 +92%20339%200093974-success?style=for-the-badge">
-  </a>
-</p>
+<a href="https://ramzanashraf.site">
+  <img src="https://img.shields.io/badge/🌐_Portfolio-Visit_Website-0A66C2?style=for-the-badge" />
+</a>
 
-<img src="https://komarev.com/ghpvc/?username=ramzandev304&label=Profile%20Views&color=0e75b6&style=flat" />
+<a href="https://www.linkedin.com/in/ramzandev304/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="mailto:contact@ramzanashraf.site">
+  <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=ramzandev304&label=Profile+Views&color=0A66C2&style=flat-square"/>
 
 </div>
 
 ---
 
-# 💫 About Me
+## 👨‍💻 About Me
 
-💼 **Senior Software Engineer** with **6+ years** of experience designing, developing, and deploying modern web applications and AI-powered products.
+I am a **Senior Full Stack & AI Engineer** with **6+ years of experience** building scalable software solutions, AI-powered applications, SaaS products, and enterprise-grade web platforms.
 
-I specialize in building scalable backend systems, intelligent AI applications, SaaS platforms, enterprise solutions, and custom web applications using modern technologies.
+My expertise spans from backend architecture and cloud infrastructure to advanced AI systems powered by LLMs, RAG pipelines, AI Agents, and workflow automation.
 
-I enjoy solving complex engineering challenges and transforming ideas into production-ready software.
-
----
-
-# 🚀 Core Expertise
-
-* 🤖 AI Agents & Autonomous Workflows
-* 🧠 Large Language Models (LLMs)
-* 📚 Retrieval-Augmented Generation (RAG)
-* 🐍 Python Backend Development
-* 🌐 Full Stack Web Development
-* ⚡ REST APIs & Microservices
-* ☁ Cloud Deployment & DevOps
-* 🔄 Automation & Data Processing
-* 📈 SaaS Product Development
+I focus on building software that delivers measurable business impact, improves operational efficiency, and creates exceptional user experiences.
 
 ---
 
-# 🛠 Tech Stack
+## 🎯 What I Do
 
-### 💻 Languages
+✅ AI Agents & Autonomous Systems
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge\&logo=php\&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
+✅ LLM Applications & Chatbots
 
----
+✅ Retrieval-Augmented Generation (RAG)
 
-### ⚙ Backend
+✅ SaaS Product Development
 
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge\&logo=django)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge\&logo=fastapi)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge\&logo=flask)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=node.js)
-![Express](https://img.shields.io/badge/Express-black?style=for-the-badge\&logo=express)
+✅ Full Stack Web Applications
 
----
+✅ REST APIs & Microservices
 
-### 🤖 AI / Machine Learning
+✅ Cloud Infrastructure & DevOps
 
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge)
-![Anthropic Claude](https://img.shields.io/badge/Claude-black?style=for-the-badge)
-![Google Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge)
-![LangChain](https://img.shields.io/badge/LangChain-00A67E?style=for-the-badge)
-![LangGraph](https://img.shields.io/badge/LangGraph-121212?style=for-the-badge)
-![LlamaIndex](https://img.shields.io/badge/LlamaIndex-purple?style=for-the-badge)
-![CrewAI](https://img.shields.io/badge/CrewAI-orange?style=for-the-badge)
-![RAG](https://img.shields.io/badge/RAG-blue?style=for-the-badge)
-![MCP](https://img.shields.io/badge/MCP-green?style=for-the-badge)
+✅ Business Process Automation
+
+✅ Enterprise Software Solutions
 
 ---
 
-### 🎨 Frontend
+## 🧠 AI & Emerging Technologies
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react)
-![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge\&logo=next.js)
-![Angular](https://img.shields.io/badge/Angular-red?style=for-the-badge\&logo=angular)
-![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge\&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge\&logo=css3)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge\&logo=bootstrap)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge\&logo=tailwindcss)
+<p align="center">
 
----
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" />
 
-### 🗄 Databases
+</p>
 
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge\&logo=mongodb)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge\&logo=postgresql)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge\&logo=sqlite)
+**Specialized In**
 
----
-
-### ☁ Cloud & DevOps
-
-![AWS](https://img.shields.io/badge/AWS-orange?style=for-the-badge\&logo=amazonaws)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge\&logo=githubactions)
-![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge\&logo=linux)
+* OpenAI APIs
+* Claude AI
+* Google Gemini
+* LangChain
+* LangGraph
+* LlamaIndex
+* CrewAI
+* MCP Servers
+* Vector Databases
+* Prompt Engineering
+* Multi-Agent Systems
+* AI Workflow Automation
 
 ---
 
-### 🌐 CMS & E-Commerce
+## ⚡ Tech Stack
 
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge\&logo=wordpress)
-![WooCommerce](https://img.shields.io/badge/WooCommerce-96588A?style=for-the-badge\&logo=woocommerce)
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,django,flask,nodejs,express,php,laravel,fastapi" />
+</p>
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,angular,typescript,javascript,html,css,tailwind,bootstrap" />
+</p>
+
+### Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,sqlite,redis" />
+</p>
+
+### Cloud & DevOps
+
+<p>
+<img src="https://skillicons.dev/icons?i=aws,docker,linux,github,git" />
+</p>
+
+### CMS & E-Commerce
+
+<p>
+<img src="https://skillicons.dev/icons?i=wordpress" />
+</p>
 
 ---
 
-# 📈 GitHub Stats
+## 📊 GitHub Analytics
 
-![](https://github-readme-stats.vercel.app/api?username=ramzandev304\&theme=tokyonight\&show_icons=true\&count_private=true)
+<div align="center">
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=ramzandev304\&theme=tokyonight)
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ramzandev304&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ramzandev304\&layout=compact\&theme=tokyonight)
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=ramzandev304&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramzandev304&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
 
 ---
 
-# 🏆 GitHub Trophies
+## 🏆 Achievements
 
-![](https://github-profile-trophy.vercel.app/?username=ramzandev304\&theme=algolia\&no-frame=true\&margin-w=15)
+* 🚀 6+ Years Professional Experience
+* 🤖 AI-Powered Product Development
+* 🌍 International Client Projects
+* 📈 Enterprise SaaS Applications
+* ⚡ High-Performance API Architectures
+* ☁ Cloud-Native Deployments
+* 🔄 Automation & Workflow Systems
 
 ---
 
-# 📫 Let's Connect
+## 🤝 Available For
 
-🌐 **Portfolio:** https://ramzanashraf.site
+* AI Development
+* SaaS Product Engineering
+* Full Stack Development
+* API Development
+* Technical Consulting
+* Long-Term Remote Roles
+* Startup MVP Development
 
-💼 **LinkedIn:** https://www.linkedin.com/in/ramzandev304/
+---
 
-📱 **Phone:** +92 339 0093974
+## 📬 Let's Connect
+
+🌐 Portfolio: https://ramzanashraf.site
+
+💼 LinkedIn: https://www.linkedin.com/in/ramzandev304
+
+📧 Email: [contact@ramzanashraf.site](mailto:contact@ramzanashraf.site)
+
+📱 WhatsApp: +92 339 0093974
 
 ---
 
 <div align="center">
 
-### ⭐ "Building intelligent software that solves real-world problems."
+## ⭐ Building AI-Powered Software That Creates Real Business Impact
 
-**Thanks for visiting my profile!**
+### Open to Remote Opportunities • Freelance Projects • Consulting
 
 </div>
