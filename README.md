@@ -2,183 +2,169 @@
 
 # 🚀 Ramzan Ashraf
 
-### Senior Full Stack Engineer • AI Engineer • Software Consultant
+### AI Engineer • Full Stack Developer • Software Consultant
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=800&lines=AI+Engineer;Full+Stack+Developer;Python+Expert;LLM+%26+RAG+Specialist;SaaS+Architect;Automation+Engineer" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3000&pause=1200&color=36BCF7&center=true&vCenter=true&width=900&lines=Building+AI-Powered+Applications;Designing+Scalable+Software+Systems;Creating+Modern+SaaS+Products;Transforming+Ideas+Into+Reality" />
 
 <br>
 
 <a href="https://ramzanashraf.site">
-  <img src="https://img.shields.io/badge/🌐_Portfolio-Visit_Website-0A66C2?style=for-the-badge" />
+<img src="https://img.shields.io/badge/🌐_Portfolio-FF6B6B?style=for-the-badge&logoColor=white">
 </a>
 
 <a href="https://www.linkedin.com/in/ramzandev304/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/LinkedIn-4D96FF?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
 <a href="mailto:contact@ramzanashraf.site">
-  <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/Email-6BCB77?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=ramzandev304&label=Profile+Views&color=0A66C2&style=flat-square"/>
-
-</div>
-
----
-
-## 👨‍💻 About Me
-
-I am a **Senior Full Stack & AI Engineer** with **6+ years of experience** building scalable software solutions, AI-powered applications, SaaS products, and enterprise-grade web platforms.
-
-My expertise spans from backend architecture and cloud infrastructure to advanced AI systems powered by LLMs, RAG pipelines, AI Agents, and workflow automation.
-
-I focus on building software that delivers measurable business impact, improves operational efficiency, and creates exceptional user experiences.
-
----
-
-## 🎯 What I Do
-
-✅ AI Agents & Autonomous Systems
-
-✅ LLM Applications & Chatbots
-
-✅ Retrieval-Augmented Generation (RAG)
-
-✅ SaaS Product Development
-
-✅ Full Stack Web Applications
-
-✅ REST APIs & Microservices
-
-✅ Cloud Infrastructure & DevOps
-
-✅ Business Process Automation
-
-✅ Enterprise Software Solutions
-
----
-
-## 🧠 AI & Emerging Technologies
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" />
-
-</p>
-
-**Specialized In**
-
-* OpenAI APIs
-* Claude AI
-* Google Gemini
-* LangChain
-* LangGraph
-* LlamaIndex
-* CrewAI
-* MCP Servers
-* Vector Databases
-* Prompt Engineering
-* Multi-Agent Systems
-* AI Workflow Automation
-
----
-
-## ⚡ Tech Stack
-
-### Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,django,flask,nodejs,express,php,laravel,fastapi" />
-</p>
-
-### Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,angular,typescript,javascript,html,css,tailwind,bootstrap" />
-</p>
-
-### Databases
-
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,sqlite,redis" />
-</p>
-
-### Cloud & DevOps
-
-<p>
-<img src="https://skillicons.dev/icons?i=aws,docker,linux,github,git" />
-</p>
-
-### CMS & E-Commerce
-
-<p>
-<img src="https://skillicons.dev/icons?i=wordpress" />
-</p>
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ramzandev304&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=ramzandev304&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramzandev304&layout=compact&theme=tokyonight&hide_border=true"/>
+<a href="tel:+923390093974">
+<img src="https://img.shields.io/badge/WhatsApp-00C853?style=for-the-badge&logo=whatsapp&logoColor=white">
+</a>
 
 </div>
 
 ---
 
-## 🏆 Achievements
+# 🌟 Professional Summary
 
-* 🚀 6+ Years Professional Experience
-* 🤖 AI-Powered Product Development
-* 🌍 International Client Projects
-* 📈 Enterprise SaaS Applications
-* ⚡ High-Performance API Architectures
-* ☁ Cloud-Native Deployments
-* 🔄 Automation & Workflow Systems
+Senior Full Stack & AI Engineer with 6+ years of experience delivering enterprise software, intelligent automation systems, AI-powered applications, SaaS platforms, and high-performance web solutions.
+
+Passionate about solving business challenges through scalable architecture, modern development practices, and cutting-edge artificial intelligence technologies.
 
 ---
 
-## 🤝 Available For
+# 🎯 Specializations
 
-* AI Development
-* SaaS Product Engineering
-* Full Stack Development
-* API Development
-* Technical Consulting
-* Long-Term Remote Roles
-* Startup MVP Development
+| Area                       | Expertise                             |
+| -------------------------- | ------------------------------------- |
+| 🤖 Artificial Intelligence | LLM Applications, AI Agents, MCP, RAG |
+| ⚙ Backend Engineering      | Python, FastAPI, Django, Node.js      |
+| 🎨 Frontend Development    | React, Next.js, Angular               |
+| ☁ Cloud & DevOps           | AWS, Docker, CI/CD                    |
+| 📊 Data Solutions          | ETL, APIs, Automation                 |
+| 🚀 Product Engineering     | SaaS & Enterprise Platforms           |
 
 ---
 
-## 📬 Let's Connect
+# 🧩 Technology Ecosystem
 
-🌐 Portfolio: https://ramzanashraf.site
+### Programming
 
-💼 LinkedIn: https://www.linkedin.com/in/ramzandev304
+<p>
+<img src="https://skillicons.dev/icons?i=python,javascript,typescript,php" />
+</p>
 
-📧 Email: [contact@ramzanashraf.site](mailto:contact@ramzanashraf.site)
+### Frameworks
 
-📱 WhatsApp: +92 339 0093974
+<p>
+<img src="https://skillicons.dev/icons?i=django,fastapi,flask,nodejs,express,react,nextjs,angular" />
+</p>
+
+### Data & Infrastructure
+
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,docker,aws,linux" />
+</p>
+
+### Development Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+</p>
+
+---
+
+# 🚀 Engineering Focus
+
+🔹 AI Agents & Autonomous Workflows
+
+🔹 Retrieval-Augmented Generation (RAG)
+
+🔹 Large Language Model Integrations
+
+🔹 API Design & Distributed Systems
+
+🔹 Enterprise SaaS Architecture
+
+🔹 Workflow Automation & Optimization
+
+🔹 Cloud-Native Application Development
+
+🔹 Performance & Scalability Engineering
+
+---
+
+# 📊 GitHub Insights
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=ramzandev304&show_icons=true&theme=radical&hide_border=true"/>
+
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=ramzandev304&theme=radical&hide_border=true"/>
+
+</div>
+
+---
+
+# 🏅 Highlights
+
+✨ 6+ Years Industry Experience
+
+✨ AI & Automation Specialist
+
+✨ Enterprise Software Architect
+
+✨ International Client Collaborations
+
+✨ Modern SaaS Product Development
+
+✨ End-to-End Solution Delivery
+
+---
+
+# 🌍 Open For
+
+🟢 Remote Opportunities
+
+🟢 AI Engineering Projects
+
+🟢 Full Stack Development
+
+🟢 Technical Consulting
+
+🟢 SaaS Product Development
+
+🟢 Long-Term Collaborations
+
+---
+
+# 🤝 Connect With Me
+
+### 🌐 Portfolio
+
+https://ramzanashraf.site
+
+### 💼 LinkedIn
+
+https://www.linkedin.com/in/ramzandev304
+
+### 📧 Email
+
+[contact@ramzanashraf.site](mailto:contact@ramzanashraf.site)
+
+### 📱 WhatsApp
+
++92 339 0093974
 
 ---
 
 <div align="center">
 
-## ⭐ Building AI-Powered Software That Creates Real Business Impact
+### 💡 Turning Complex Ideas Into Intelligent Digital Solutions
 
-### Open to Remote Opportunities • Freelance Projects • Consulting
+⭐ Thanks for visiting my profile.
 
 </div>
