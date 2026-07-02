@@ -1,159 +1,179 @@
+````md
 <div align="center">
 
-# 👋 Hi, I'm Ramzan Ashraf
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&text=Ramzan%20Ashraf&fontSize=60&fontAlignY=38&animation=fadeIn&fontColor=ffffff&desc=Senior%20Full%20Stack%20%7C%20AI%20Engineer&descAlignY=58"/>
 
-### 🚀 Senior Full Stack & AI Engineer
-
-**Python • AI/LLMs • MERN • MEAN • LAMP • WordPress**
-
-Building scalable software, AI-powered applications, and enterprise web solutions with **6+ years of professional experience.**
-
-<p>
-  <a href="https://ramzanashraf.site">
-    <img src="https://img.shields.io/badge/🌐 Portfolio-Visit-success?style=for-the-badge">
-  </a>
-  <a href="https://www.linkedin.com/in/ramzandev304/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
-  </a>
-  <a href="tel:+923390093974">
-    <img src="https://img.shields.io/badge/📱 +92%20339%200093974-success?style=for-the-badge">
-  </a>
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Senior+Full+Stack+Developer;Python+Backend+Engineer;AI+Agents+%7C+LLMs+%7C+RAG;MERN+%7C+MEAN+%7C+LAMP;FastAPI+%7C+Django+%7C+Node.js;Always+Building+Awesome+Things+🚀"/>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=ramzandev304&label=Profile%20Views&color=0e75b6&style=flat" />
+<p align="center">
+
+<a href="https://ramzanashraf.site">
+<img src="https://img.shields.io/badge/🌐_Portfolio-00C853?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/ramzandev304">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:ramzan@example.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="tel:+923390093974">
+<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+</a>
+
+</p>
+
+<img src="https://komarev.com/ghpvc/?username=ramzandev304&label=Visitors&color=blueviolet&style=for-the-badge"/>
 
 </div>
 
 ---
 
-# 💫 About Me
+# 💎 About Me
 
-💼 **Senior Software Engineer** with **6+ years** of experience designing, developing, and deploying modern web applications and AI-powered products.
+<img align="right" width="340" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
 
-I specialize in building scalable backend systems, intelligent AI applications, SaaS platforms, enterprise solutions, and custom web applications using modern technologies.
+🚀 Senior Full Stack & AI Engineer
 
-I enjoy solving complex engineering challenges and transforming ideas into production-ready software.
+💻 6+ Years Professional Experience
 
----
+🤖 AI Agents & LLM Applications
 
-# 🚀 Core Expertise
+⚡ FastAPI • Django • Node.js
 
-* 🤖 AI Agents & Autonomous Workflows
-* 🧠 Large Language Models (LLMs)
-* 📚 Retrieval-Augmented Generation (RAG)
-* 🐍 Python Backend Development
-* 🌐 Full Stack Web Development
-* ⚡ REST APIs & Microservices
-* ☁ Cloud Deployment & DevOps
-* 🔄 Automation & Data Processing
-* 📈 SaaS Product Development
+🌐 MERN • MEAN • LAMP
 
----
+☁ AWS • Docker • Linux
 
-# 🛠 Tech Stack
+🧠 LangChain • LangGraph • RAG
 
-### 💻 Languages
+📈 SaaS Products
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge\&logo=php\&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
+🔥 Enterprise Applications
 
 ---
 
-### ⚙ Backend
+# 🚀 Tech Arsenal
 
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge\&logo=django)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge\&logo=fastapi)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge\&logo=flask)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=node.js)
-![Express](https://img.shields.io/badge/Express-black?style=for-the-badge\&logo=express)
+<div align="center">
 
----
+<img src="https://skillicons.dev/icons?i=python,django,fastapi,flask,nodejs,express"/>
 
-### 🤖 AI / Machine Learning
+<img src="https://skillicons.dev/icons?i=react,nextjs,angular,typescript,javascript"/>
 
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge)
-![Anthropic Claude](https://img.shields.io/badge/Claude-black?style=for-the-badge)
-![Google Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge)
-![LangChain](https://img.shields.io/badge/LangChain-00A67E?style=for-the-badge)
-![LangGraph](https://img.shields.io/badge/LangGraph-121212?style=for-the-badge)
-![LlamaIndex](https://img.shields.io/badge/LlamaIndex-purple?style=for-the-badge)
-![CrewAI](https://img.shields.io/badge/CrewAI-orange?style=for-the-badge)
-![RAG](https://img.shields.io/badge/RAG-blue?style=for-the-badge)
-![MCP](https://img.shields.io/badge/MCP-green?style=for-the-badge)
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,sqlite"/>
+
+<img src="https://skillicons.dev/icons?i=docker,aws,git,github,linux"/>
+
+<img src="https://skillicons.dev/icons?i=wordpress,bootstrap,tailwind,vscode"/>
+
+</div>
 
 ---
 
-### 🎨 Frontend
+# 🤖 AI Stack
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react)
-![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge\&logo=next.js)
-![Angular](https://img.shields.io/badge/Angular-red?style=for-the-badge\&logo=angular)
-![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge\&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge\&logo=css3)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge\&logo=bootstrap)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge\&logo=tailwindcss)
+<div align="center">
 
----
+| AI | Frameworks | Vector DB | APIs |
+|:---:|:---:|:---:|:---:|
+| OpenAI | LangChain | Pinecone | REST |
+| Claude | LangGraph | ChromaDB | GraphQL |
+| Gemini | CrewAI | FAISS | WebSockets |
+| DeepSeek | LlamaIndex | Weaviate | MCP |
 
-### 🗄 Databases
-
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge\&logo=mongodb)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge\&logo=postgresql)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge\&logo=sqlite)
+</div>
 
 ---
 
-### ☁ Cloud & DevOps
+# 🏆 GitHub Stats
 
-![AWS](https://img.shields.io/badge/AWS-orange?style=for-the-badge\&logo=amazonaws)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge\&logo=githubactions)
-![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge\&logo=linux)
+<div align="center">
 
----
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=ramzandev304&show_icons=true&theme=radical&hide_border=true"/>
 
-### 🌐 CMS & E-Commerce
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramzandev304&layout=compact&theme=radical&hide_border=true"/>
 
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge\&logo=wordpress)
-![WooCommerce](https://img.shields.io/badge/WooCommerce-96588A?style=for-the-badge\&logo=woocommerce)
+</div>
 
----
+<div align="center">
 
-# 📈 GitHub Stats
+<img src="https://github-readme-streak-stats.herokuapp.com?user=ramzandev304&theme=radical&hide_border=true"/>
 
-![](https://github-readme-stats.vercel.app/api?username=ramzandev304\&theme=tokyonight\&show_icons=true\&count_private=true)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=ramzandev304\&theme=tokyonight)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ramzandev304\&layout=compact\&theme=tokyonight)
+</div>
 
 ---
 
-# 🏆 GitHub Trophies
+# 📈 Contribution Graph
 
-![](https://github-profile-trophy.vercel.app/?username=ramzandev304\&theme=algolia\&no-frame=true\&margin-w=15)
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ramzandev304&theme=react-dark&hide_border=true"/>
+
+</p>
 
 ---
 
-# 📫 Let's Connect
+# 🏅 GitHub Trophies
 
-🌐 **Portfolio:** https://ramzanashraf.site
+<p align="center">
 
-💼 **LinkedIn:** https://www.linkedin.com/in/ramzandev304/
+<img src="https://github-profile-trophy.vercel.app/?username=ramzandev304&theme=radical&margin-w=15&margin-h=15&no-frame=true"/>
 
-📱 **Phone:** +92 339 0093974
+</p>
+
+---
+
+# ⚡ Current Focus
+
+```text
+🚀 Building AI SaaS
+🤖 AI Agents
+🧠 LLM Integrations
+⚡ FastAPI APIs
+☁ Cloud Deployments
+💼 Enterprise Solutions
+```
+
+---
+
+# 📫 Connect With Me
+
+<div align="center">
+
+<a href="https://ramzanashraf.site">
+<img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel"/>
+</a>
+
+<a href="https://linkedin.com/in/ramzandev304">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:ramzan@example.com">
+<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="tel:+923390093974">
+<img src="https://img.shields.io/badge/WhatsApp-green?style=for-the-badge&logo=whatsapp"/>
+</a>
+
+</div>
 
 ---
 
 <div align="center">
 
-### ⭐ "Building intelligent software that solves real-world problems."
+## 💙 Thanks For Visiting
 
-**Thanks for visiting my profile!**
+<img src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=gradient"/>
+
+⭐ Star your favorite repositories
+
+🚀 Let's Build Something Amazing Together
 
 </div>
+````
