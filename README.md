@@ -1,58 +1,50 @@
 <div align="center">
 
-# ██████╗  █████╗ ███╗   ███╗███████╗ █████╗ ███╗   ██╗
+# <span style="color:#00D9FF;">🚀 Ramzan Ashraf</span>
 
-# ██╔══██╗██╔══██╗████╗ ████║╚══███╔╝██╔══██╗████╗  ██║
+### <span style="color:#FF6B6B;">AI Engineer</span> • <span style="color:#4D96FF;">Full Stack Developer</span> • <span style="color:#6BCB77;">Software Consultant</span>
 
-# ██████╔╝███████║██╔████╔██║  ███╔╝ ███████║██╔██╗ ██║
-
-# ██╔══██╗██╔══██║██║╚██╔╝██║ ███╔╝  ██╔══██║██║╚██╗██║
-
-# ██║  ██║██║  ██║██║ ╚═╝ ██║███████╗██║  ██║██║ ╚████║
-
-# ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═══╝
-
-# 🚀 RAMZAN ASHRAF
-
-### Senior Full Stack Engineer • AI Engineer • Software Consultant
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=30&duration=2500&pause=1000&color=00D9FF&center=true&vCenter=true&width=1000&lines=Building+AI-Powered+Applications;Python+%7C+LLMs+%7C+RAG+%7C+AI+Agents;Full+Stack+Web+Development;Enterprise+Software+Solutions;SaaS+Product+Engineering" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=28&duration=3000&pause=1200&color=00D9FF&center=true&vCenter=true&width=900&lines=AI+Engineer;Python+Developer;Full+Stack+Specialist;LLM+%26+RAG+Expert;Building+Scalable+Software" />
 
 <br>
 
-<img src="https://img.shields.io/badge/AI%20Engineer-00D9FF?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Full%20Stack%20Developer-6C63FF?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Python%20Expert-FFD93D?style=for-the-badge" />
-<img src="https://img.shields.io/badge/6%2B%20Years%20Experience-FF6B6B?style=for-the-badge" />
-
-<br><br>
-
-<a href="https://ramzanashraf.site">
-<img src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20Website-0A66C2?style=for-the-badge" />
-</a>
-
-<a href="https://www.linkedin.com/in/ramzandev304">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="mailto:mramzanashraf123@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-<a href="tel:+923390093974">
-<img src="https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-</a>
+<img src="https://img.shields.io/badge/Experience-6%2B%20Years-FF6B6B?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Specialization-AI%20%26%20LLMs-4D96FF?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Focus-SaaS%20Products-6BCB77?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Status-Open%20to%20Work-FFD93D?style=for-the-badge" />
 
 </div>
 
 ---
 
-## 💫 About Me
+## 🟦 About Me
 
-💼 Senior Software Engineer with **6+ years of professional experience** building modern web applications, AI-powered systems, SaaS products, enterprise software, and automation solutions.
+🔹 Senior Full Stack & AI Engineer with 6+ years of professional experience
 
-🧠 Specialized in Artificial Intelligence, Large Language Models (LLMs), RAG Systems, AI Agents, Python Development, and Cloud-Native Architectures.
+🔹 Building enterprise software, AI-powered applications, SaaS platforms, and automation systems
 
-🚀 Passionate about creating scalable digital products that deliver measurable business value.
+🔹 Specialized in LLMs, AI Agents, RAG Architectures, Python Backends, and Cloud Deployments
+
+🔹 Passionate about transforming ideas into scalable digital products
 
 ---
+
+## 🟪 Contact
+
+📧 **Email:** [mramzanashraf123@gmail.com](mailto:mramzanashraf123@gmail.com)
+
+🌐 **Portfolio:** https://ramzanashraf.site
+
+💼 **LinkedIn:** https://www.linkedin.com/in/ramzandev304
+
+📱 **WhatsApp:** +92 339 0093974
+
+---
+
+<div align="center">
+
+### 🟨 Building Intelligent Software That Solves Real-World Problems
+
+⭐ Thanks for visiting my GitHub Profile
+
+</div>
